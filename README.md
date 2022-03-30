@@ -2,5 +2,5 @@
 
 ### Hi, I'm [thissuper!](https://thissuper.github.io) 👋
 
-> Endless improvement
+> Cloud native enthusiasts, endless improvement
 
